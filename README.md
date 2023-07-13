@@ -2,7 +2,7 @@
 
 Welcome to the Amazon ML Challenge 23 repository! This repository documents the approach and process used by Team Heracross to participate in the challenge. In this challenge, we utilized linear regression and XGBRegressor models to tackle the problem at hand.
 
-## Approach
+## Little Abouts
 
 ### Linear Regression
 Linear regression is a popular and widely-used technique in the field of machine learning for predicting numerical values. It assumes a linear relationship between the input features and the target variable. In our case, we explored the possibility of using linear regression to predict the desired outcome based on the provided dataset.
