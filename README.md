@@ -10,6 +10,9 @@ Linear regression is a popular and widely-used technique in the field of machine
 ### XGBRegressor
 XGBRegressor is an implementation of the gradient boosting algorithm, which is known for its ability to handle complex relationships between variables and make accurate predictions. We employed XGBRegressor to capture the non-linear relationships in the data and improve the prediction performance.
 
+## Dataset
+We were provided train.csv and test.csv datasets for this challenge but they cannot be included in this repository so you'll have to consider the datasets included in our Jyupter notebook
+
 ## Results
 
 After extensive experimentation and training with the linear regression and XGBRegressor models, we achieved an accuracy of 31.2%. Although this accuracy is lower than the highest accuracy of 63.1% achieved by another participant, we are proud of our achievement and the learnings we gained throughout the challenge.
